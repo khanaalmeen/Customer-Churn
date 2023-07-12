@@ -1,0 +1,5 @@
+# Customer-Churn
+- As part of PwC's virtual case experience program, I completed a project with the objective of creating a dashboard that would reflect the relevant customer retention KPIs and analyze the key factors influencing customer churn.
+- The project involved identifying the key performance indicators (KPIs) related to customer retention and developing a dashboard using Power BI that would present these KPIs in a clear and concise manner. Additionally, I conducted an analysis of the factors influencing customer churn and incorporated these insights into the dashboard.
+- The resulting dashboard provides a comprehensive view of customer retention performance, highlighting key metrics such as churn rate. It also includes visualizations that help identify the key factors influencing customer churn, allowing stakeholders to take data-driven actions to improve retention.
+- Overall, this project demonstrates my ability to identify and analyze KPIs related to customer retention and translate these insights into a clear and actionable dashboard
